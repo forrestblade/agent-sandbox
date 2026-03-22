@@ -1,5 +1,5 @@
 {
-  "name": "agent-sandbox",
+  "name": "agent-sandbox-cli",
   "version": "0.1.0",
   "type": "module",
   "description": "OS-level isolation wrapper for agent command execution",
